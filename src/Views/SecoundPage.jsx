@@ -6,7 +6,7 @@ import DigiMobile from '../secoundViws/digiMobile/DigiMobile';
 import IfiagTV from '../secoundViws/ifiagTV/IfiagTV';
 import Institut from '../secoundViws/institut/Institut';
 import NosFormations from '../secoundViws/nosFormation/NosFormations';
-import Contacts from '../secoundViws/Contact/Contacts';
+// import Contacts from '../secoundViws/Contact/Contacts';
 import Accueil from '../secoundViws/accueil/Accueil';
 import ArticalAI from '../secoundViws/actualites/ArticalAI';
 import NumériqueArtical from '../secoundViws/actualites/NumériqueArtical';
@@ -22,7 +22,6 @@ const SecoundPage = () => {
                 <Route exact path="/digimobile" component={DigiMobile} />
                 <Route exact path="/actualites" component={Actualites} />
                 <Route exact path="/nos-formation" component={NosFormations} />
-                <Route exact path="/contacts" component={Contacts} />
                 <Route exact path="/ifiagTV" component={IfiagTV} />
 
                 <Route exact path="/artical-portrait" component={ArticalAI} />
