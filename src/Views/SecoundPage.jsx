@@ -30,7 +30,7 @@ const SecoundPage = () => {
                  <Route exact path="/artical-pasteur" component={ArticlePasteur} />
                 <Route exact path="/aritcal-digitale" component={NumériqueArtical} />
                 <Route exact path="/article-ollya" component={ArticleOLlya} />
-                  <Route exact path="/article-ollya-Colloque" component={ArticleOLlyaColloque} />
+                <Route exact path="/article-ollya-Colloque" component={ArticleOLlyaColloque} />
                 <Route exact path="/transhumanisme" component={Transhumanisme} />
                
             
