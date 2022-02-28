@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ifiag-home/static/css/main.3f8b30b4.chunk.css",
-    "main.js": "/ifiag-home/static/js/main.693f9088.chunk.js",
-    "main.js.map": "/ifiag-home/static/js/main.693f9088.chunk.js.map",
+    "main.css": "/ifiag-home/static/css/main.82ba62c3.chunk.css",
+    "main.js": "/ifiag-home/static/js/main.76ae789a.chunk.js",
+    "main.js.map": "/ifiag-home/static/js/main.76ae789a.chunk.js.map",
     "runtime-main.js": "/ifiag-home/static/js/runtime-main.5521f570.js",
     "runtime-main.js.map": "/ifiag-home/static/js/runtime-main.5521f570.js.map",
-    "static/js/2.ed6d14ee.chunk.js": "/ifiag-home/static/js/2.ed6d14ee.chunk.js",
-    "static/js/2.ed6d14ee.chunk.js.map": "/ifiag-home/static/js/2.ed6d14ee.chunk.js.map",
+    "static/js/2.eaa437ab.chunk.js": "/ifiag-home/static/js/2.eaa437ab.chunk.js",
+    "static/js/2.eaa437ab.chunk.js.map": "/ifiag-home/static/js/2.eaa437ab.chunk.js.map",
     "index.html": "/ifiag-home/index.html",
-    "static/css/main.3f8b30b4.chunk.css.map": "/ifiag-home/static/css/main.3f8b30b4.chunk.css.map",
-    "static/js/2.ed6d14ee.chunk.js.LICENSE.txt": "/ifiag-home/static/js/2.ed6d14ee.chunk.js.LICENSE.txt",
+    "static/css/main.82ba62c3.chunk.css.map": "/ifiag-home/static/css/main.82ba62c3.chunk.css.map",
+    "static/js/2.eaa437ab.chunk.js.LICENSE.txt": "/ifiag-home/static/js/2.eaa437ab.chunk.js.LICENSE.txt",
     "static/media/ALLAMELLOU.bbc802d8.jpg": "/ifiag-home/static/media/ALLAMELLOU.bbc802d8.jpg",
     "static/media/Captur.d4f8886a.png": "/ifiag-home/static/media/Captur.d4f8886a.png",
     "static/media/Deep-learning.5e691625.jpg": "/ifiag-home/static/media/Deep-learning.5e691625.jpg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5521f570.js",
-    "static/js/2.ed6d14ee.chunk.js",
-    "static/css/main.3f8b30b4.chunk.css",
-    "static/js/main.693f9088.chunk.js"
+    "static/js/2.eaa437ab.chunk.js",
+    "static/css/main.82ba62c3.chunk.css",
+    "static/js/main.76ae789a.chunk.js"
   ]
 }
