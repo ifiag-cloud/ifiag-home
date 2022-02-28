@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ifiag-home/static/css/main.e831c13f.chunk.css",
-    "main.js": "/ifiag-home/static/js/main.a037af6e.chunk.js",
-    "main.js.map": "/ifiag-home/static/js/main.a037af6e.chunk.js.map",
+    "main.js": "/ifiag-home/static/js/main.d2b4953e.chunk.js",
+    "main.js.map": "/ifiag-home/static/js/main.d2b4953e.chunk.js.map",
     "runtime-main.js": "/ifiag-home/static/js/runtime-main.5521f570.js",
     "runtime-main.js.map": "/ifiag-home/static/js/runtime-main.5521f570.js.map",
-    "static/js/2.1ffa5033.chunk.js": "/ifiag-home/static/js/2.1ffa5033.chunk.js",
-    "static/js/2.1ffa5033.chunk.js.map": "/ifiag-home/static/js/2.1ffa5033.chunk.js.map",
+    "static/js/2.16f84f3a.chunk.js": "/ifiag-home/static/js/2.16f84f3a.chunk.js",
+    "static/js/2.16f84f3a.chunk.js.map": "/ifiag-home/static/js/2.16f84f3a.chunk.js.map",
     "index.html": "/ifiag-home/index.html",
     "static/css/main.e831c13f.chunk.css.map": "/ifiag-home/static/css/main.e831c13f.chunk.css.map",
-    "static/js/2.1ffa5033.chunk.js.LICENSE.txt": "/ifiag-home/static/js/2.1ffa5033.chunk.js.LICENSE.txt",
+    "static/js/2.16f84f3a.chunk.js.LICENSE.txt": "/ifiag-home/static/js/2.16f84f3a.chunk.js.LICENSE.txt",
     "static/media/Captur.d4f8886a.png": "/ifiag-home/static/media/Captur.d4f8886a.png",
     "static/media/Pass-Numérique.4322f55d.jpg": "/ifiag-home/static/media/Pass-Numérique.4322f55d.jpg",
     "static/media/ifiag_logo.4b71e98d.png": "/ifiag-home/static/media/ifiag_logo.4b71e98d.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5521f570.js",
-    "static/js/2.1ffa5033.chunk.js",
+    "static/js/2.16f84f3a.chunk.js",
     "static/css/main.e831c13f.chunk.css",
-    "static/js/main.a037af6e.chunk.js"
+    "static/js/main.d2b4953e.chunk.js"
   ]
 }
