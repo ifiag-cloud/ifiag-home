@@ -1,0 +1,56 @@
+.portrait{
+  height: 110px;
+  width: 120px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.portrait-button{
+  margin-left: -20px !important;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-weight: bold;
+  font-size: 14 px;
+  border-radius: 7px;  
+}
+ 
+
+.portrait-button:hover { 
+  text-decoration: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  background-color: #4D4646;
+  color: #fff;
+                        
+}
+.portrait-button-2{
+  margin-top: 10px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 18px;
+   border: 2px solid #0a3968 ;
+  border-radius: 10px; 
+   background-color: #0a3968;;
+  color: #fff;
+}
+.portrait-button-2:hover { 
+  text-decoration: none;
+  background-color: #fff;
+  color:#37628D;
+                        
+}
+
+
+
+.portrait-text{ 
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+     color:#37628D;;
+    
+}
+.portrait-paragraph{
+    margin-top: -8px;
+     font-size: 14px;
+     font-family: Arial, Helvetica, sans-serif;
+}

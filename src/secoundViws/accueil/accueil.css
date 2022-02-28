@@ -1,0 +1,57 @@
+p{
+    text-transform: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first-image{
+    margin-left: 12px;
+}
+.first-image p{
+    color:#37628D;
+    margin-right: 10px;
+}
+.first-image h2{
+    font-weight: bold;
+}
+/* .first-image img{
+    height: 40vh;
+} */
+.telephone-text{
+   
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.formations-text{
+     font-size: 1;
+    font-weight: bold;
+}
+
+
+
+.accueil-button{
+  padding: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  border: 2px solid #0a3968 ;
+  border-radius: 10px; 
+  background-color: #0a3968;;
+  color: #fff;
+  
+}
+.accueil-button:hover { 
+  text-decoration: none;
+  background-color: #fff;
+  color:#37628D;
+                        
+}
+
+@media (max-width: 767px) {   
+        .first-image{
+    margin-left: 0px;
+    
+}
+
+}

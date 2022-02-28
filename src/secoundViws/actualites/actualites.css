@@ -1,0 +1,62 @@
+.portrait-artical{
+    line-height: 1.6;
+}
+.sub-heading-text {
+    font-size: 1.2rem;
+    padding-bottom: 10px;
+    color: #37628D;
+    font-weight: 600;
+    text-align: start;
+    text-transform: none;
+    
+}
+.artical-word{
+     font-weight: bold;
+    font-size: 1rem;
+    
+}
+
+.artical-question{
+    font-weight: bold;
+    line-height: 3;
+    color: #37628D;
+    font-size: 1.1rem;
+}
+.artical-bold{
+    font-weight:  bold;
+    font-size: 19px;
+    color:#37628D;
+}
+.artical-obj{
+    font-weight: bold;
+    color: #37628D;
+}
+
+.numerique-image{
+    height: 45vh;
+    width: 30vw;
+    object-fit: cover;
+}
+.logo-image{
+    height: 300px;
+    width: 500px;
+}
+.colloque-sub-text{
+    font-size: 15px;
+    font-style: oblique;
+}
+
+@media (max-width: 767px) {   
+    .numerique-image{
+    height: 100vh;
+    width: 100vw;
+    padding: 10px;
+}
+    .margin-mobile{
+        padding: 20px;
+        margin-top: -10px !important;       
+    }
+    .sub-heading-text{
+        margin-top: 10px;
+    }
+}

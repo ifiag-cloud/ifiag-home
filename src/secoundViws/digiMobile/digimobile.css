@@ -1,0 +1,14 @@
+.captur{   
+    height: 80vh;
+    width: 90vw;
+    margin-top: 10px;
+    object-fit: fill;
+     image-rendering:optimizeQuality;
+}
+.video02{
+    height: 280px;
+    width: 320px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

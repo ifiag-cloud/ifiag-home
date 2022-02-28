@@ -1,0 +1,44 @@
+.dde{
+  height: 60vh;
+  width: 57vw;
+  margin-left: -40px;
+  object-fit: cover;
+
+}
+
+.formation-img{
+   height: 60vh;
+  width: 57vw;
+  margin-left: -40px;
+  object-fit: cover;
+
+}
+
+.formation-text{
+   font-weight: bold;
+    font-size: 17px;
+    color:#37628D;
+}
+
+.formation-sub-text{
+    font-size: 18px;
+    font-weight: bold;
+    color:tomato;
+}
+.float{
+  float: left;
+
+}
+.margin{
+  margin-left: -5px;
+}
+
+@media (max-width: 767px) {   
+  .formation-img{
+   height: 30vh;
+  width: 100vw;
+  margin-left: 1px;
+  object-fit: cover;
+
+}
+}

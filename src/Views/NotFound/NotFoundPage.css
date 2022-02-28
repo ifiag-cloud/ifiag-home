@@ -1,0 +1,35 @@
+.myheader {
+    margin-top: 10vh;
+}
+.heading1 {
+    color: #82C0FF;
+    font-size: 9rem;
+    margin-bottom: -27px;
+}
+.errer{
+    background-color: #82C0FF;
+    height: 45vh;
+    padding: 24px;
+    line-height: 2em;
+}
+.errer h2 {
+    color: tomato;
+    font-size: 2rem;
+    line-height: 2em;
+    
+}
+
+.custom-button {
+    color: #fff;
+    background-color: #00A807;
+    border-radius: 21px;
+    text-transform: capitalize;
+}
+.errer h4, .errer p{
+    text-align: center;
+    line-height: 2em;
+}
+h4{
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}
