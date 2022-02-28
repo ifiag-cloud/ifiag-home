@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ifiag-home/static/css/main.3f8b30b4.chunk.css",
+    "main.js": "/ifiag-home/static/js/main.3fc0b901.chunk.js",
+    "main.js.map": "/ifiag-home/static/js/main.3fc0b901.chunk.js.map",
+    "runtime-main.js": "/ifiag-home/static/js/runtime-main.5521f570.js",
+    "runtime-main.js.map": "/ifiag-home/static/js/runtime-main.5521f570.js.map",
+    "static/js/2.68ce09e4.chunk.js": "/ifiag-home/static/js/2.68ce09e4.chunk.js",
+    "static/js/2.68ce09e4.chunk.js.map": "/ifiag-home/static/js/2.68ce09e4.chunk.js.map",
+    "index.html": "/ifiag-home/index.html",
+    "static/css/main.3f8b30b4.chunk.css.map": "/ifiag-home/static/css/main.3f8b30b4.chunk.css.map",
+    "static/js/2.68ce09e4.chunk.js.LICENSE.txt": "/ifiag-home/static/js/2.68ce09e4.chunk.js.LICENSE.txt",
+    "static/media/ALLAMELLOU.bbc802d8.jpg": "/ifiag-home/static/media/ALLAMELLOU.bbc802d8.jpg",
+    "static/media/Captur.d4f8886a.png": "/ifiag-home/static/media/Captur.d4f8886a.png",
+    "static/media/Deep-learning.5e691625.jpg": "/ifiag-home/static/media/Deep-learning.5e691625.jpg",
+    "static/media/Elastic.d8c4d374.jpg": "/ifiag-home/static/media/Elastic.d8c4d374.jpg",
+    "static/media/Initiation.7a65e42a.jpg": "/ifiag-home/static/media/Initiation.7a65e42a.jpg",
+    "static/media/MongoDB.d01fd795.jpg": "/ifiag-home/static/media/MongoDB.d01fd795.jpg",
+    "static/media/OK - JR ph.521925a5.jpg": "/ifiag-home/static/media/OK - JR ph.521925a5.jpg",
+    "static/media/Ochatbot.9b5d6998.jpg": "/ifiag-home/static/media/Ochatbot.9b5d6998.jpg",
+    "static/media/Pass-Numérique.4322f55d.jpg": "/ifiag-home/static/media/Pass-Numérique.4322f55d.jpg",
+    "static/media/ifiag_logo.4b71e98d.png": "/ifiag-home/static/media/ifiag_logo.4b71e98d.png",
+    "static/media/image.9dbb3310.png": "/ifiag-home/static/media/image.9dbb3310.png",
+    "static/media/main.ded4efa8.png": "/ifiag-home/static/media/main.ded4efa8.png",
+    "static/media/portrait.37a235f7.jpg": "/ifiag-home/static/media/portrait.37a235f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5521f570.js",
+    "static/js/2.68ce09e4.chunk.js",
+    "static/css/main.3f8b30b4.chunk.css",
+    "static/js/main.3fc0b901.chunk.js"
+  ]
+}
