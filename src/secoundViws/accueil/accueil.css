@@ -47,6 +47,9 @@ p{
   color:#37628D;
                         
 }
+.text-justify{
+    text-align: justify;
+}
 
 @media (max-width: 767px) {   
         .first-image{

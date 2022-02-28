@@ -6,6 +6,7 @@ import portrait from '../../Assets/images/portrait.jpg'
 import ALLAMELLOU from '../../Assets/images/ALLAMELLOU.jpg'
 import Ollyaimage from '../../Assets/images/OK - JR ph.jpg'
 import Ollyaimage2 from '../../Assets/images/image.png'
+import IfiagInstitut from '../../Assets/images/IFIAG-Institut.jpg'
 
 
 
@@ -16,6 +17,20 @@ const Actualites = () => {
             <div className="row justify-content-center ">
                 <div className="col-12 col-lg-9 mt-5 margin-mobile">
                     <div className="row d-flex justify-content-start align-items-start">
+                         <div className="col-12 col-lg-4">
+                            <img src={IfiagInstitut} alt="Logo République Français" className="img-fluid" />
+                        </div>
+                           <div className="col-12 col-lg-8">
+
+                                    <Link to="/artical-pasteur"style={{ textDecoration: 'none', color:'inherit' }}>
+                                        <h1 className="sub-heading-text mb-3 ">L’IFIAG assistait à la table ronde organisée à l’Institut de Pasteur le 30 novembre 2021 sur le thème: les enjeux de l’industrie de la santé révélés pendant la crise sanitaire liée à la Covid-19 en France.</h1>
+                                    </Link>
+
+                                     <p className="text-justify mr-2 portrait-paragraph">Plusieurs experts en recherche scientifique et du domaine de la santé se sont réunis le mardi 30 Novembre au sein de l’Institut Pasteur pour mettre en avant les enjeux de la recherche scientifique et de l’innovation en France.</p>
+                           </div>
+
+                    </div>
+                    <div className="row d-flex justify-content-start align-items-start mt-5">
                          <div className="col-12 col-lg-4">
                             <img src={Ollyaimage2} alt="Logo République Français" className="img-fluid" />
                         </div>

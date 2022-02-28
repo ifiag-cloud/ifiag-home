@@ -9,7 +9,7 @@ const ArticalAI = () => {
     return (
         <div className="container">
              <div className="row justify-content-center ">
-                <div className="col-12 col-lg-12 mt-5">
+                <div className="col-12 col-lg-12 mt-5 ">
                       <h2 className="sub-heading-text mt-4">
                         Portrait | Jean-Roger SIQUILINI, président de l'IFIAG 
                         Membre du club « Paris, une chance. Les entreprises s’engagent ! »

@@ -8,7 +8,7 @@ const NumériqueArtical = () => {
         <div className="container">
 
              <div className="row justify-content-center ">
-                <div className="col-12 col-lg-9 mt-4">
+                <div className="col-12 col-lg-9 mt-4 ">
                       <h2 className="sub-heading-text mt-4">
                         Écologie digitale : l’impact du Numérique sur l’environnement
                       </h2>  
@@ -16,7 +16,7 @@ const NumériqueArtical = () => {
                             L’actualité nous oblige à regarder le monde qui nous entoure à travers de nouveaux prismes. Face à la pandémie, le numérique apparaît comme notre bouée de sauvetage, entre consommation de contenus en streaming, backtracking (identification d’utilisateurs de smartphones ayant eu contact avec une personne infectée), explosion du télétravail avec son corollaire la visio-conférence (Zoom, Skype, Teams…) il donne l’illusion que l’Homme pourrait se passer de vie sociale. On en viendrait presqu’à oublier l’empreinte carbone liée au fonctionnement d’internet, à la fabrication des appareils qui se multiplient dans de nombreux foyers et au besoin, sans cesse croissant, de stockage de la donnée.<br/>
                         </p> 
                             <img  src={ALLAMELLOU} alt="Logo République Français" className="img-fluid numerique-image" />
-                        <p>   
+                        <p className='text-justify'>   
                             <br/>La donnée est clairement devenue l’or du 21ème siècle. Cette assertion s’impose à nous car celui qui aujourd’hui détient la donnée et a en plus la capacité de l’analyser et de l’exploiter possède un avantage concurrentiel certain. On estime le marché de la donnée à 67 milliards d’euros à l’horizon 2021.
                             <br/><samp className='artical-question'>Notre « chère » donnée</samp>
                            <br/> Mais, la donnée ne se suffit pas à elle-même. Elle est la matière première indispensable au développement soutenu de l’intelligence artificielle, de la block Chain, de la smart city, des modèles prévisionnels de propagation d’une épidémie…<br/>
