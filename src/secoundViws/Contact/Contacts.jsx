@@ -57,7 +57,7 @@ export default function ContactForm() {
           <ValidationError prefix="Email" field="email" errors={state.errors} />           
         </div>
       <div className="col-12 col-md-6">
-         <label className="col-12 col-form-label"  htmlFor="email"><span className="star">*</span>Numéro</label>
+         <label className="col-12 col-form-label"  htmlFor="email"><span className="star">*</span> Téléphone</label>
                 <input
                     id="number"                    
                     type="number"                                    
