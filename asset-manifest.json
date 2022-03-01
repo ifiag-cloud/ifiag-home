@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ifiag-home/static/css/main.c19c6aaf.chunk.css",
-    "main.js": "/ifiag-home/static/js/main.afdb8004.chunk.js",
-    "main.js.map": "/ifiag-home/static/js/main.afdb8004.chunk.js.map",
+    "main.css": "/ifiag-home/static/css/main.449e9651.chunk.css",
+    "main.js": "/ifiag-home/static/js/main.067c15bd.chunk.js",
+    "main.js.map": "/ifiag-home/static/js/main.067c15bd.chunk.js.map",
     "runtime-main.js": "/ifiag-home/static/js/runtime-main.5521f570.js",
     "runtime-main.js.map": "/ifiag-home/static/js/runtime-main.5521f570.js.map",
-    "static/js/2.9563509e.chunk.js": "/ifiag-home/static/js/2.9563509e.chunk.js",
-    "static/js/2.9563509e.chunk.js.map": "/ifiag-home/static/js/2.9563509e.chunk.js.map",
+    "static/js/2.89b68782.chunk.js": "/ifiag-home/static/js/2.89b68782.chunk.js",
+    "static/js/2.89b68782.chunk.js.map": "/ifiag-home/static/js/2.89b68782.chunk.js.map",
     "index.html": "/ifiag-home/index.html",
-    "static/css/main.c19c6aaf.chunk.css.map": "/ifiag-home/static/css/main.c19c6aaf.chunk.css.map",
-    "static/js/2.9563509e.chunk.js.LICENSE.txt": "/ifiag-home/static/js/2.9563509e.chunk.js.LICENSE.txt",
+    "static/css/main.449e9651.chunk.css.map": "/ifiag-home/static/css/main.449e9651.chunk.css.map",
+    "static/js/2.89b68782.chunk.js.LICENSE.txt": "/ifiag-home/static/js/2.89b68782.chunk.js.LICENSE.txt",
     "static/media/ALLAMELLOU.bbc802d8.jpg": "/ifiag-home/static/media/ALLAMELLOU.bbc802d8.jpg",
     "static/media/Captur.d4f8886a.png": "/ifiag-home/static/media/Captur.d4f8886a.png",
     "static/media/Deep-learning.5e691625.jpg": "/ifiag-home/static/media/Deep-learning.5e691625.jpg",
@@ -20,15 +20,16 @@
     "static/media/OK - JR ph.521925a5.jpg": "/ifiag-home/static/media/OK - JR ph.521925a5.jpg",
     "static/media/Ochatbot.9b5d6998.jpg": "/ifiag-home/static/media/Ochatbot.9b5d6998.jpg",
     "static/media/Pass-Numérique.4322f55d.jpg": "/ifiag-home/static/media/Pass-Numérique.4322f55d.jpg",
+    "static/media/Support.0bf7896f.jpg": "/ifiag-home/static/media/Support.0bf7896f.jpg",
     "static/media/ifiag_logo.4b71e98d.png": "/ifiag-home/static/media/ifiag_logo.4b71e98d.png",
     "static/media/image.9dbb3310.png": "/ifiag-home/static/media/image.9dbb3310.png",
-    "static/media/main.ded4efa8.png": "/ifiag-home/static/media/main.ded4efa8.png",
-    "static/media/portrait.37a235f7.jpg": "/ifiag-home/static/media/portrait.37a235f7.jpg"
+    "static/media/jean-profile.2646c3c6.jpg": "/ifiag-home/static/media/jean-profile.2646c3c6.jpg",
+    "static/media/main.ded4efa8.png": "/ifiag-home/static/media/main.ded4efa8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5521f570.js",
-    "static/js/2.9563509e.chunk.js",
-    "static/css/main.c19c6aaf.chunk.css",
-    "static/js/main.afdb8004.chunk.js"
+    "static/js/2.89b68782.chunk.js",
+    "static/css/main.449e9651.chunk.css",
+    "static/js/main.067c15bd.chunk.js"
   ]
 }
