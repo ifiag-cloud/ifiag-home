@@ -14,5 +14,11 @@ footer {
     text-align: center;
     text-transform: none;
 }
+
+@media (max-width: 767px) {   
+   .responsive-block{
+       display: block;
+      
+   }
     
-    
+}

@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Portrait from '../../Components/portrait/Portrait';
-import portrait from '../../Assets/images/portrait.jpg'
+import portrait from '../../Assets/images/jean-profile.jpg'
 import ALLAMELLOU from '../../Assets/images/ALLAMELLOU.jpg'
 import Ollyaimage from '../../Assets/images/OK - JR ph.jpg'
 import Ollyaimage2 from '../../Assets/images/image.png'

@@ -8,7 +8,7 @@ const Institut = () => {
          <div className="container">
 
              <div className="row justify-content-center ">
-                <div className="col-12 col-lg-9 mt-5 text-justify">
+                <div className="col-12 col-lg-9 mt-5 text-justify margin-mobile">
                       <h1 className="sub-heading-text mb-4">Institut français de l’Intelligence Artificielle et de la Génétique «IFIAG»
                         </h1> 
                         <p>L’IFIAG ambitionne de positionner l’intelligence artificielle et la génétique comme secteurs d’avenir

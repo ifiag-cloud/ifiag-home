@@ -12,7 +12,7 @@ const Accueil = () => {
            
             <div className="row">
 
-                <div className="col-12 col-lg-4  card shadow rounded  first-image">
+                <div className="col-12 col-lg-4  card shadow rounded formation-text-color margin-mobile">
 
                       <img src={Main} alt="formation*date" className="img-fluid" /> 
 
@@ -29,7 +29,7 @@ const Accueil = () => {
 
                 </div>
                 
-                <div className="col-12 col-lg-4  card shadow rounded ">
+                <div className="col-12 col-lg-4  card shadow rounded  text-justify">
                       <img src={pass_numerique} alt="formation*date" className="img-fluid p-0" /> 
                    
                 </div>

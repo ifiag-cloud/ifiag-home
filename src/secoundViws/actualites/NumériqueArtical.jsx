@@ -8,7 +8,7 @@ const NumériqueArtical = () => {
         <div className="container">
 
              <div className="row justify-content-center ">
-                <div className="col-12 col-lg-9 mt-4 ">
+                <div className="col-12 col-lg-9 mt-4 margin-mobile">
                       <h2 className="sub-heading-text mt-4">
                         Écologie digitale : l’impact du Numérique sur l’environnement
                       </h2>  

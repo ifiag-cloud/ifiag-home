@@ -9,7 +9,7 @@ const ArticleOLlya = () => {
         <div className="container">
 
              <div className="row justify-content-center ">
-                <div className="col-12 col-lg-9 mt-5">
+                <div className="col-12 col-lg-9 mt-5 margin-mobile">
                       <h2 className="sub-heading-text ">
                         
                             En présence de la Ministre du travail le Président de l’IFIAG a assisté à la cérémonie de remise de trophées « 1 jeune, 1 solution » le Mercredi 22 septembre 2021

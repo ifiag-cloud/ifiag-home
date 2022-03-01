@@ -5,14 +5,14 @@ import Portrait from '../../Components/portrait/Portrait';
 import Initiation from '../../Assets/images/Initiation.jpg';
 import Chatbot from '../../Assets/images/Ochatbot.jpg';
 import Elastic from '../../Assets/images/Elastic.jpg';
-import DeepLearning from '../../Assets/images/Deep-learning.jpg';
+import DeepLearning from '../../Assets/images/Support.jpg';
 import MongoDB from '../../Assets/images/MongoDB.jpg'
 const NosFormations = () => {
     return (
         <div className="container ">
 
              <div className="row justify-content-center ">
-                <div className=" row col-12 col-lg-9 mt-5">
+                <div className=" row col-12 col-lg-9 mt-5 margin-mobile" >
                    
                      <div className=" col-12">
 
@@ -26,7 +26,7 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-text">prérequis : </samp>aucun</p>                    
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF/AIF/</samp>PASS Numérique</p>
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp>OPCO, FNE</p>
-                         <Link to="">
+                         <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
                         </div>
@@ -45,7 +45,7 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-text">prérequis : </samp>aucun</p>                    
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF</samp>(3 jours HTML) + (2 jours Chatbot)</p>
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp> OPCO, FNE (3 jours HTML) + (2 jours Chatbot)</p>
-                         <Link to="">
+                         <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
                         </div>
@@ -62,7 +62,7 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-text">prérequis : </samp>bonnes connaissances d’un langage de programmation. Connaissances de base de l’administration en ligne de commande. Connaissance souhaitable du langage Python ou Java</p>                    
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">AIF</samp></p>
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp>OPCO, FNE</p>
-                         <Link to="">
+                         <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
                         </div>
@@ -79,7 +79,7 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-text">prérequis : </samp>quelques connaissances en programmation et en administration du système d’exploitation Windows.</p>                    
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF</samp></p>
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp>OPCO, FNE</p>
-                         <Link to="">
+                         <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
                         </div>
@@ -98,7 +98,7 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-text">prérequis : </samp>Il est nécessaire de connaître la programmation en Python</p>                    
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF/AIF/</samp>PASS Numérique</p>
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp>OPCO, FNE</p>
-                         <Link to="">
+                         <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
                         </div>

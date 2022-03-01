@@ -14,6 +14,7 @@ import Transhumanisme from '../secoundViws/nosFormation/Transhumanisme';
 import ArticleOLlya from '../secoundViws/actualites/ArticleOLlya';
 import ArticlePasteur from '../secoundViws/actualites/ArticlePasteur';
 import ArticleOLlyaColloque from '../secoundViws/actualites/ArticleOLlyaColloque';
+import ContactForm from '../secoundViws/Contact/Contacts';
 
 const SecoundPage = () => {
     return (
@@ -23,6 +24,7 @@ const SecoundPage = () => {
                 <Route exact path="/institut" component={Institut} />
                 <Route exact path="/digimobile" component={DigiMobile} />
                 <Route exact path="/actualites" component={Actualites} />
+                <Route exact path="/contacts" component={ContactForm} />
                 <Route exact path="/nos-formation" component={NosFormations} />
                 <Route exact path="/ifiagTV" component={IfiagTV} />
 

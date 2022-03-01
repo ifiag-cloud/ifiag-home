@@ -1,6 +1,6 @@
 import React from 'react';
 import './actualites.css';
-import portrait from '../../Assets/images/portrait.jpg'
+import portrait from '../../Assets/images/jean-profile.jpg'
 
 
 
@@ -9,7 +9,7 @@ const ArticalAI = () => {
     return (
         <div className="container">
              <div className="row justify-content-center ">
-                <div className="col-12 col-lg-12 mt-5 ">
+                <div className="col-12 col-lg-12 mt-5 margin-mobile">
                       <h2 className="sub-heading-text mt-4">
                         Portrait | Jean-Roger SIQUILINI, président de l'IFIAG 
                         Membre du club « Paris, une chance. Les entreprises s’engagent ! »
@@ -17,7 +17,7 @@ const ArticalAI = () => {
                       <p className="text-justify mt-3 portrait-artical">
                          "L'Institut Français de l'Intelligence Artificielle et de la Génétique (IFIAG) accompagne les porteurs de projets dans l'IA et le numérique, notamment dans les QPV." - Membre du Club #LaFranceUneChance
                         </p>
-                          <img src={portrait} alt="Logo République Français" className="img-fluid" />
+                          <img src={portrait} alt="Logo République Français" className="img-fluid numerique-image" />
                         <p className="text-justify mt-3 portrait-artical">
                            <br/><samp className='artical-question'>Pouvez-vous nous présenter votre activité ? </samp><br/>
                             Après des études en électrotechnique et 20 ans dans le conseil en communication, j'ai créé en 2019 l'association : « Institut Français de l'Intelligence Artificielle et de la Génétique » (IFIAG) pour promouvoir ces domaines en France hexagonale et dans les Dom-Tom. Florentin ARTHUS, secrétaire général de l'association, également passionné par l'IA depuis toujours, m'a rejoint dans cette aventure.

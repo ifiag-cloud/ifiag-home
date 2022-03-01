@@ -44,6 +44,9 @@ const NewHeader = () => {
                                 <NavLink exact to="/digimobile" activeClassName="active" className="nav_links" onClick={handleClickIcon}>DIGI'MOBILE</NavLink>
                             </li>
                             <li className="nav_item">
+                                <NavLink exact to="/contacts" activeClassName="active" className="nav_links" onClick={handleClickIcon}>CONTACT</NavLink>
+                            </li>
+                            <li className="nav_item">
                                 <NavLink exact to="/ifiagTV" activeClassName="active" className="nav_links" onClick={handleClickIcon}>IFIAG TV</NavLink>
                             </li>
                     

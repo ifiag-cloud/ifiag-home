@@ -9,7 +9,7 @@ const ArticleOLlyaColloque = () => {
         <div className="container">
 
              <div className="row justify-content-center ">
-                <div className="col-12 col-lg-9 mt-5">
+                <div className="col-12 col-lg-9 mt-5 margin-mobile">
                       <h2 className="sub-heading-text ">
                         
                            Le Président de l’IFIAG Jean Roger SIQUILINI était convié au Sénat par l’USHOM en présence d’élus ultramarins pour répondre à la crise du logement social en Outre-mer.

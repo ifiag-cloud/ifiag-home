@@ -2,7 +2,7 @@ import React from 'react';
 import './portrait.css';
 import { Link } from 'react-router-dom';
 
-import portrait from '../../Assets/images/portrait.jpg'
+import portrait from '../../Assets/images/jean-profile.jpg'
 
 const Portrait = () => {
     return (

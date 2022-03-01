@@ -8,8 +8,8 @@ const IfiagTV = () => {
      <div className="container">
 
              <div className="row justify-content-center ">
-                <div className="col-12 col-lg-9 mt-5">
-                    <div className='col-11 bg-light '>
+                <div className="col-12 col-lg-9 mt-5 margin-mobile">
+                    <div className='col-11'>
 
                         <div className="ratio ratio-16x9 m-0 ">
                                         <iframe src="https://www.youtube.com/embed/7VUN808QsGw" title="La DIGI’MOBILE de L’IF" frameborder="1" allow="fullscreen" className="tv-video"></iframe>
@@ -19,7 +19,7 @@ const IfiagTV = () => {
                                     <p className='tv-text'>
                                         Conscient de l’importance du Numérique dans nos vies, l'IFIAG fait de l'inclusion Numérique un levier de développement économique et social pour tous, en étant sur le terrain, avec son projet phare la DIGI’MOBILE (l'automobile digitale), de manière à sensibiliser et à prendre contact avec ce public éloigné du Numérique ; et qui, bien entendu, ne peut être rencontré sur Internet. De cette façon, nous pourrons leur permettre également d'accéder à cette inclusion Numérique.</p>     
                             </div>
-                     <div className='col-11  bg-light mt-5'>
+                     <div className='col-11  mt-5'>
 
                         <div className="ratio ratio-16x9 m-0 ">
                                 <iframe src="https://www.youtube.com/embed/uaCn0hjT7Lc" title="La DIGI’MOBILE de L’IF" frameborder="1" allow="fullscreen" className="tv-video"></iframe>
