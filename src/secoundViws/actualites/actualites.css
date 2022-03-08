@@ -33,8 +33,8 @@
 }
 
 .numerique-image{
-    height: 65vmax;
-    width: 30vmax;
+    height: 65vh;
+    width: 30vw;
     object-fit: cover;
 }
 .logo-image{
