@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ifiag-home/static/css/main.77f6f9ac.chunk.css",
+    "main.css": "/ifiag-home/static/css/main.449e9651.chunk.css",
     "main.js": "/ifiag-home/static/js/main.19d43acb.chunk.js",
     "main.js.map": "/ifiag-home/static/js/main.19d43acb.chunk.js.map",
     "runtime-main.js": "/ifiag-home/static/js/runtime-main.5521f570.js",
@@ -8,7 +8,7 @@
     "static/js/2.89b68782.chunk.js": "/ifiag-home/static/js/2.89b68782.chunk.js",
     "static/js/2.89b68782.chunk.js.map": "/ifiag-home/static/js/2.89b68782.chunk.js.map",
     "index.html": "/ifiag-home/index.html",
-    "static/css/main.77f6f9ac.chunk.css.map": "/ifiag-home/static/css/main.77f6f9ac.chunk.css.map",
+    "static/css/main.449e9651.chunk.css.map": "/ifiag-home/static/css/main.449e9651.chunk.css.map",
     "static/js/2.89b68782.chunk.js.LICENSE.txt": "/ifiag-home/static/js/2.89b68782.chunk.js.LICENSE.txt",
     "static/media/ALLAMELLOU.bbc802d8.jpg": "/ifiag-home/static/media/ALLAMELLOU.bbc802d8.jpg",
     "static/media/Captur.d4f8886a.png": "/ifiag-home/static/media/Captur.d4f8886a.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.5521f570.js",
     "static/js/2.89b68782.chunk.js",
-    "static/css/main.77f6f9ac.chunk.css",
+    "static/css/main.449e9651.chunk.css",
     "static/js/main.19d43acb.chunk.js"
   ]
 }
