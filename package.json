@@ -1,7 +1,7 @@
 {
   "name": "client",
   "proxy": "https://formspree.io",
-  "homepage": "https://ifiag-cloud.github.io/ifiag-home",
+  "homepage": "https://ifiag-cloud.github.io/ifiag-home/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

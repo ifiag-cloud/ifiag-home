@@ -73,7 +73,7 @@ export default function ContactForm() {
 
         <div className="form-group row">
     
-            <label className="col-12 col-form-label"><span className="star">*</span> Nos-Formation : </label>
+            <label className="col-12 col-form-label"><span className="star">*</span> Nos-Formations : </label>
                 <select name="cars" id="cars">
                     <option value="Initiation numérique">Initiation numérique</option>
                     <option value="HTML ET CHATBOT">Html et Chatbot</option>

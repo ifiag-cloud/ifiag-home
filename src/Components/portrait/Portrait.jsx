@@ -15,7 +15,7 @@ const Portrait = () => {
 
                         <div className="col-12">
                              <Link to="/artical-portrait" style={{ textDecoration: 'none', color:'inherit' }}>
-                            <p className=' text-justify portrait-text'>Portrait | Jean Roger SIQUILINI, président de l’IFIAG | CCI Paris </p>
+                            <p className=' text-justify portrait-text'>Portrait | Jean Roger SIQUILINI, président de l’IFIAG par CCI Paris </p>
 
                              </Link>
                         </div>

@@ -38,7 +38,7 @@ const NewHeader = () => {
                                 <NavLink exact to="/actualites" activeClassName="active" className="nav_links" onClick={handleClickIcon}>ACTUALITES</NavLink>
                             </li>
                             <li className="nav_item">
-                                <NavLink exact to="/nos-formation" activeClassName="active" className="nav_links" onClick={handleClickIcon}>nos-formation</NavLink>
+                                <NavLink exact to="/nos-formation" activeClassName="active" className="nav_links" onClick={handleClickIcon}>nos-formations</NavLink>
                             </li>
                             <li className="nav_item">
                                 <NavLink exact to="/digimobile" activeClassName="active" className="nav_links" onClick={handleClickIcon}>DIGI'MOBILE</NavLink>

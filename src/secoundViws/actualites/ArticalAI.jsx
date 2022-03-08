@@ -20,8 +20,7 @@ const ArticalAI = () => {
                           <img src={portrait} alt="Logo République Français" className="img-fluid numerique-image" />
                         <p className="text-justify mt-3 portrait-artical">
                            <br/><samp className='artical-question'>Pouvez-vous nous présenter votre activité ? </samp><br/>
-                            Après des études en électrotechnique et 20 ans dans le conseil en communication, j'ai créé en 2019 l'association : « Institut Français de l'Intelligence Artificielle et de la Génétique » (IFIAG) pour promouvoir ces domaines en France hexagonale et dans les Dom-Tom. Florentin ARTHUS, secrétaire général de l'association, également passionné par l'IA depuis toujours, m'a rejoint dans cette aventure.
-                               <br/><samp className='artical-obj'> Notre objectif :</samp> découvrir, encourager, former et accompagner les porteurs de projet dans l'IA en les conseillant à chaque étape de développement.
+                            Après des études en électrotechnique et 20 ans dans le conseil en communication, j'ai créé en 2019 l'association : « Institut Français de l'Intelligence Artificielle et de la Génétique » (IFIAG) pour promouvoir ces domaines en France hexagonale et dans les Dom-Tom. <br/><samp className='artical-obj'> Notre objectif :</samp> découvrir, encourager, former et accompagner les porteurs de projet dans l'IA en les conseillant à chaque étape de développement.
                                 <br/> <samp className='artical-question'> Quels rôles a joué la CCI Paris dans cette aventure entrepreneuriale ?</samp><br/>
                                 La CCI est un lieu incontournable pour l'entrepreneuriat, nous avons d'ailleurs pu assister à des conférences de qualité sur des thèmes liés à nos problématiques.
 
