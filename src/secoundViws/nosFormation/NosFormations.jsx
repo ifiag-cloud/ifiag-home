@@ -24,8 +24,8 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-sub-text">Initiation</samp> au<samp class="formation-sub-text"> Numérique et maîtrise des outils</samp>, enjeux stratégiques et domaines d'application de l'Intelligence Artificielle</p> 
                             <p class=""><samp class="formation-text">participants : </samp>tout public, porteurs de projets, création d’entreprise</p>
                             <p class=""><samp class="formation-text">prérequis : </samp>aucun</p>                    
-                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF/AIF/</samp>PASS Numérique</p>
-                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp>OPCO, FNE</p>
+                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF/AIF/PASS Numérique</samp></p>
+                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE /OPCO /FNE</samp></p>
                          <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
@@ -43,8 +43,8 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-text">description : </samp> la formation sur 5 jours permet non seulement de concevoir un site web (3 jours) mais aussi d’y intégrer un chat bot (2 jours). Nous utiliserons pour les Chatbot une approche low code qui permet de concevoir facilement un Chatbot efficace selon le projet de l’utilisateur. Cette formation comporte 70% de pratique. Cette formation est ouverte à tout type de public.</p>
                             <p class=""><samp class="formation-text">participants : </samp> porteur de projet/toute personne désireux de créer rapidement un site web</p>
                             <p class=""><samp class="formation-text">prérequis : </samp>aucun</p>                    
-                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF</samp>(3 jours HTML) + (2 jours Chatbot)</p>
-                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp> OPCO, FNE (3 jours HTML) + (2 jours Chatbot)</p>
+                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF </samp> (3 jours HTML) + (2 jours Chatbot)</p>
+                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE /OPCO /FNE </samp> (3 jours HTML) + (2 jours Chatbot)</p>
                          <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
@@ -61,7 +61,7 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-text">participants : </samp> ce stage s’adresse à tous les informaticiens ayant à installer et à exploiter MongoDB ou voulant une première approche de l’administration et de l’écriture de requêtes simples avec MongoDB.</p>
                             <p class=""><samp class="formation-text">prérequis : </samp>bonnes connaissances d’un langage de programmation. Connaissances de base de l’administration en ligne de commande. Connaissance souhaitable du langage Python ou Java</p>                    
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">AIF</samp></p>
-                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp>OPCO, FNE</p>
+                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE /OPCO /FNE</samp></p>
                          <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
@@ -78,7 +78,7 @@ const NosFormations = () => {
                             <p class=""><samp class="formation-text">participants : </samp>Chef de projets, responsable d’applications</p>
                             <p class=""><samp class="formation-text">prérequis : </samp>quelques connaissances en programmation et en administration du système d’exploitation Windows.</p>                    
                             <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF</samp></p>
-                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp>OPCO, FNE</p>
+                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE /OPCO /FNE</samp></p>
                          <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
@@ -92,12 +92,12 @@ const NosFormations = () => {
                         <div className=" col-12 mt-4 margin text-justify">
                              
 
-                            <p class=""><samp class="formation-sub-text">AI,DEEP LEARING AVEC TENSORFLOW</samp>(4 jours)</p> 
+                            <p class=""><samp class="formation-sub-text">AI,DEEP LEARING AVEC TENSORFLOW </samp> (4 jours)</p> 
                             <p class=""><samp class="formation-text">description  : </samp>TensorFlow est LE framwork Deep Learning et l’Intelligence Artificielle, par excellence. Proposée par Google, librairie Open Source TensorFlow permet d’implémenter des problèmes de Deep Learning. Notre formation avec 50% de pratique expose les cas d’utilisation et leur mise en pratique des architecture Deep Learning. Les stagiaires seront à même de concevoir des systèmes prédictifs de reconnaissance visuelle, textuelle.</p> 
                             <p class=""><samp class="formation-text">participants : </samp> Data scientist, Data analyst, développeurs, Architectes Big Data</p>
                             <p class=""><samp class="formation-text">prérequis : </samp>Il est nécessaire de connaître la programmation en Python</p>                    
-                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF/AIF/</samp>PASS Numérique</p>
-                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE</samp>OPCO, FNE</p>
+                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">CPF /AIF /PASS Numérique</samp></p>
+                            <p class=""><samp class="formation-text">Financement : </samp><samp class="formation-sub-text">ENTREPRISE /OPCO /FNE </samp></p>
                          <Link to="/contacts">
                             <button type="button" className="accueil-button float mb-3">CHOISIR CETTE FORMATION</button>
                          </Link>
